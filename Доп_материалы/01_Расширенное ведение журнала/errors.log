@@ -1,0 +1,1 @@
+20-09-2022 04:42:46 : Main : ERROR : addition : 66 : Error Type : ValueError, Error Message : could not convert string to float: 'A'

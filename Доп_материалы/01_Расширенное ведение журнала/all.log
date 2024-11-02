@@ -1,0 +1,25 @@
+20-09-2022 04:42:46 : INFO : logging_advanced_guide_06 : <module> : 73 : (Process Details : (12668, MainProcess), Thread Details : (15072, MainThread))
+Log : Current Log Level : 1
+
+20-09-2022 04:42:46 : DEBUG : logging_advanced_guide_06 : addition : 54 : (Process Details : (12668, MainProcess), Thread Details : (15072, MainThread))
+Log : Inside Addition Function
+20-09-2022 04:42:46 : INFO : logging_advanced_guide_06 : addition : 63 : (Process Details : (12668, MainProcess), Thread Details : (15072, MainThread))
+Log : Addition Function Completed Successfully
+20-09-2022 04:42:46 : INFO : logging_advanced_guide_06 : <module> : 76 : (Process Details : (12668, MainProcess), Thread Details : (15072, MainThread))
+Log : Addition of 10 & 20 is : 30.0
+
+20-09-2022 04:42:46 : DEBUG : logging_advanced_guide_06 : addition : 54 : (Process Details : (12668, MainProcess), Thread Details : (15072, MainThread))
+Log : Inside Addition Function
+20-09-2022 04:42:46 : WARNING : logging_advanced_guide_06 : addition : 56 : (Process Details : (12668, MainProcess), Thread Details : (15072, MainThread))
+Log : Warning : Parameter A is passed as String. Future versions won't support it.
+20-09-2022 04:42:46 : INFO : logging_advanced_guide_06 : addition : 63 : (Process Details : (12668, MainProcess), Thread Details : (15072, MainThread))
+Log : Addition Function Completed Successfully
+20-09-2022 04:42:46 : INFO : logging_advanced_guide_06 : <module> : 79 : (Process Details : (12668, MainProcess), Thread Details : (15072, MainThread))
+Log : Addition of '20' & 20 is : 40.0
+
+20-09-2022 04:42:46 : DEBUG : logging_advanced_guide_06 : addition : 54 : (Process Details : (12668, MainProcess), Thread Details : (15072, MainThread))
+Log : Inside Addition Function
+20-09-2022 04:42:46 : ERROR : logging_advanced_guide_06 : addition : 66 : (Process Details : (12668, MainProcess), Thread Details : (15072, MainThread))
+Log : Error Type : ValueError, Error Message : could not convert string to float: 'A'
+20-09-2022 04:42:46 : INFO : logging_advanced_guide_06 : <module> : 82 : (Process Details : (12668, MainProcess), Thread Details : (15072, MainThread))
+Log : Addition of A & 20 is : None

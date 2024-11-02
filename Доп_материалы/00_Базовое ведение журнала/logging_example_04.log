@@ -1,0 +1,6 @@
+INFO:root:Addition Function Completed Successfully
+WARNING:root:Warning : Parameter A is passed as String. Future versions won't support it.
+INFO:root:Addition Function Completed Successfully
+WARNING:root:Warning : Parameter B is passed as String. Future versions won't support it.
+INFO:root:Addition Function Completed Successfully
+ERROR:root:Error Type : ValueError, Error Message : could not convert string to float: 'A'

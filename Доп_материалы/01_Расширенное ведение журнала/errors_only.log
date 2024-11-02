@@ -1,0 +1,1 @@
+ERROR : logging_advanced_guide_08 : addition : 91 : Error Type : ValueError, Error Message : could not convert string to float: 'A'

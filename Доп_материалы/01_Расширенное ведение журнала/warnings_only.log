@@ -1,0 +1,2 @@
+WARNING : logging_advanced_guide_08 : addition : 81 : Warning : Parameter A is passed as String. Future versions won't support it.
+WARNING : logging_advanced_guide_08 : addition : 84 : Warning : Parameter B is passed as String. Future versions won't support it.

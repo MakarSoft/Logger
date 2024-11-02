@@ -1,0 +1,26 @@
+logging Ч подробное руководство по регистрации событий в Python с простыми примерами 
+https://coderzcolumn.com/tutorials/python/logging-simple-guide-to-log-events-in-python
+
+logging.config Ч ѕростое руководство по настройке логгеров из словар€ и файлов конфигурации в Python 
+https://coderzcolumn.com/tutorials/python/logging-config-simple-guide-to-configure-loggers-from-dictionary-and-config-files-in-python
+
+##########################################################################################
+
+multiprocessing - Simple Guide to Create Processes and Pool of Processes in Python
+https://coderzcolumn.com/tutorials/python/multiprocessing-basic
+
+threading - An In-Depth Guide to Multithreading in Python with Simple Examples
+https://coderzcolumn.com/tutorials/python/threading-guide-to-multithreading-in-python-with-simple-examples
+
+##########################################################################################
+
+
+configparser Ч ѕростое руководство по созданию и анализу файлов конфигурации (.conf, .ini и т. д.) 
+https://coderzcolumn.com/tutorials/python/configparser-simple-guide-to-create-and-parse-configuration-files
+
+##########################################################################################
+
+How to collect, customize, and centralize Python logs
+https://www.datadoghq.com/blog/python-logging-best-practices/
+
+https://zetcode.com/python/logging/

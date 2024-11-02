@@ -1,0 +1,2 @@
+logging — подробное руководство по регистрации событий в Python с простыми примерами
+https://coderzcolumn.com/tutorials/python/logging-simple-guide-to-log-events-in-python

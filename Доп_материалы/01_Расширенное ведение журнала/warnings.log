@@ -1,0 +1,4 @@
+10-08-2022 03:24:53 : Main : WARNING : addition : 48 : Warning : Parameter A is passed as String. Future versions won't support it.
+10-08-2022 03:24:53 : Main : ERROR : addition : 58 : Error Type : ValueError, Error Message : could not convert string to float: 'A'
+20-09-2022 04:42:46 : Main : WARNING : addition : 56 : Warning : Parameter A is passed as String. Future versions won't support it.
+20-09-2022 04:42:46 : Main : ERROR : addition : 66 : Error Type : ValueError, Error Message : could not convert string to float: 'A'

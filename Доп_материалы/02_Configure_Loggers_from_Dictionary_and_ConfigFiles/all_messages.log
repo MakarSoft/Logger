@@ -1,0 +1,11 @@
+INFO : logging_config_ex_4 : <module> : Current Log Level : 10
+
+INFO : logging_config_ex_4 : addition : Addition Function Completed Successfully
+INFO : logging_config_ex_4 : <module> : Addition of 10 & 20 is : 30.0
+
+WARNING : logging_config_ex_4 : addition : Warning : Parameter A is passed as String. Future versions won't support it.
+INFO : logging_config_ex_4 : addition : Addition Function Completed Successfully
+INFO : logging_config_ex_4 : <module> : Addition of '20' & 20 is : 40.0
+
+ERROR : logging_config_ex_4 : addition : Error Type : ValueError, Error Message : could not convert string to float: 'A'
+INFO : logging_config_ex_4 : <module> : Addition of A & 20 is : None
